@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://211.239.118.182/html" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="False" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="tyo" publishMethod="FTP" replaceMatchingFiles="True" userName="soccerjung2" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAim2BvYp2ZU2fhWaV9jkRPwAAAAACAAAAAAAQZgAAAAEAACAAAAAz7rHg8H83gU2EFKY0L4n0ilWRrSdrdSYBMKcJ/rP11AAAAAAOgAAAAAIAACAAAAAs9amOe+IkoTx8XKnXS9JdLU+5fUwbWCbZS4XnrZID6yAAAADOkmzZS/l6FAtxnPDDvBRNsb5LOPNBHPGdVnpV/bq7eEAAAADFh6JxLCMSfQFHXZf2c216u5jBuxcIA6W9xlde05LpDvSn7rmMBTCNdyl8OM2h3NCZ/6Ofh37dgSJQAreHr8mw" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="12/28/2011 05:03:35" />
+    <file relUrl="Scripts/bootstrap-popover.js" publishTime="04/02/2012 22:39:47" />
+    <file relUrl="bin/taeyo_facebook.dll" publishTime="04/17/2012 14:41:44" />
+    <file relUrl="css/bootstrap.css" publishTime="04/20/2012 05:29:41" />
+    <file relUrl="Views/facebook/FacebookLoginCallBackDenided.aspx" publishTime="12/28/2011 05:29:31" />
+    <file relUrl="bin/taeyo_facebook.pdb" publishTime="04/17/2012 14:41:44" />
+    <file relUrl="Scripts/bootstrap-tabs.js" publishTime="04/02/2012 22:39:47" />
+    <file relUrl="Scripts/jquery-1.7.min.js" publishTime="04/02/2012 22:39:47" />
+    <file relUrl="Views/facebook/FacebookLoginCallBack.aspx" publishTime="12/28/2011 05:24:02" />
+    <file relUrl="Scripts/bootstrap-twipsy.js" publishTime="04/02/2012 22:39:47" />
+    <file relUrl="Views/facebook/articleList.aspx" publishTime="04/20/2012 05:24:21" />
+    <file relUrl="Images/btn_faceLogin.gif" publishTime="12/28/2011 05:12:18" />
+    <file relUrl="Scripts/bootstrap-alerts.js" publishTime="04/02/2012 22:39:47" />
+    <file relUrl="Views/Web.config" publishTime="12/28/2011 05:02:11" />
+    <file relUrl="Views/facebook/memberList.aspx" publishTime="04/20/2012 05:25:03" />
+    <file relUrl="Scripts/bootstrap-dropdown.js" publishTime="04/02/2012 22:39:47" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="12/28/2010 16:41:49" />
+    <file relUrl="Scripts/bootstrap-buttons.js" publishTime="04/02/2012 22:39:47" />
+    <file relUrl="Views/facebook/Login.aspx" publishTime="04/17/2012 13:36:11" />
+    <file relUrl="Images/glyphicons-halflings-white.png" publishTime="04/02/2012 21:37:56" />
+    <file relUrl="Scripts/bootstrap-modal.js" publishTime="04/02/2012 22:39:47" />
+    <file relUrl="Scripts/bootstrap-scrollspy.js" publishTime="04/02/2012 22:39:47" />
+    <file relUrl="Images/glyphicons-halflings.png" publishTime="04/02/2012 21:37:56" />
+    <file relUrl="css/bootstrap.min.css" publishTime="04/02/2012 22:40:07" />
+    <file relUrl="Global.asax" publishTime="12/28/2011 05:02:11" />
+    <file relUrl="Scripts/less-1.1.5.min.js" publishTime="04/02/2012 22:39:47" />
+  </publishProfile>
+</publishData>

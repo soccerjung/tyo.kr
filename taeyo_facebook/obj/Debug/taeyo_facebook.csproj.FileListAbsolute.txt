@@ -1,0 +1,5 @@
+F:\C#\taeyo_facebook\taeyo_facebook\bin\taeyo_facebook.dll
+F:\C#\taeyo_facebook\taeyo_facebook\bin\taeyo_facebook.pdb
+F:\C#\taeyo_facebook\taeyo_facebook\obj\Debug\taeyo_facebook.dll
+F:\C#\taeyo_facebook\taeyo_facebook\obj\Debug\taeyo_facebook.pdb
+F:\C#\taeyo_facebook\taeyo_facebook\obj\Debug\taeyo_facebook.csprojResolveAssemblyReference.cache
