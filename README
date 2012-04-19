@@ -1,0 +1,11 @@
+이거슨 Taeyo.NET의 4월 세미나의 "Facebook Graph API With ASP.NET" 세션의 데모 소스코드 입니다.
+
+http://tyo.kr 에 방문 하셔서 실제 동작하는 모습을 확인하실 수 있습니다.
+
+다운로드 후 아래와 같은 절차를 수행해야 합니다.
+
+1) classes/oAuthFacebook.cs 변경
+  - Line 33 : Application ID 변경
+  - Line 46 : Application Secret 변경
+
+그럼 신나는 Facebook Graph API의 세계로 ㄱㄱㄱㄱ
