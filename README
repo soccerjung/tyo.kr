@@ -8,6 +8,13 @@ http://tyo.kr 에 방문 하셔서 실제 동작하는 모습을 확인하실 �
   - Line 33 : Application ID 변경
   - Line 46 : Application Secret 변경
 
-그럼 신나는 Facebook Graph API의 세계로 ㄱㄱㄱㄱ
+그럼 즐겁고 신나는 Facebook Graph API의 세계로
 
 참고문서 : http://developers.facebook.com/docs/reference/api/
+
+
+해당 코드에 대해 궁금하신 점이 있으신 분은 Issues에 등록 해 주세요.
+
+확인 되는대로 응답 해 드리겠습니다.
+
+
